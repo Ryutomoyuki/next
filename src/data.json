@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction",
+    "description": "As an experienced Blockchain developer, I'm looking forward to collaborating with you on development."
+  },
+  {
+    "id": 2,
+    "title": "My skill",
+    "description": "Full Stack( Frontend & Backend ), Blockchain, AI development"
+  },
+  {
+    "id": 3,
+    "title": "Language",
+    "description": "C, C++, JavaScript, Python, php"
+  }
+]
